@@ -14,3 +14,9 @@ Projeto completo da criação de um Pokedex
 PokéAPI: [Documentação da API](https://pokeapi.co/)
 <br>
 [Gerador de Favicons](https://www.websiteplanet.com/pt-br/webtools/favicon-generator/)
+
+#### Exemplo 
+
+
+https://user-images.githubusercontent.com/100981592/180626778-b9a6ec6e-30ab-422b-a46b-a6bc42d739c1.mp4
+
